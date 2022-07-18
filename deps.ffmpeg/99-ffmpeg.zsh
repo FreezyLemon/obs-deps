@@ -38,14 +38,6 @@ local -a patches=(
     1bb369ebb1b51896a730ba60d637e93fcbd95939e380a07f9989067184a55a42"
   "* https://gitlab.com/1480c1/FFmpeg/-/commit/6fd1533057.patch \
     8b315a3a9c477db9453c1bb6e5b5cdd36f8e0969c35d9f2163262936f3ad8446"
-  "windows https://github.com/obsproject/FFmpeg/commit/9ee65983b32b3aa637a839f5171aa16d7bc3650d.patch?full_index=1 \
-    a7b0850f6ab1e688a02ba98f05b2a60d6fc1cb306ca825a3bd4e7eacb2fc0a75"
-  "windows https://github.com/obsproject/FFmpeg/commit/3558b7c140f86551cd65e7e7aa9815cc2db6e16b.patch?full_index=1 \
-    865bbc3dd389569786a6f6972faee7d3e36a7f0d724226c286dd2dfa8ac4efdf"
-  "windows https://github.com/obsproject/FFmpeg/commit/8451b7c1d4ade3477b9446b8cd5bfd6ddbf71e83.patch?full_index=1 \
-    5c41f4702927b0dc35fae9d22f32f6d2ac54f69ca7042e375a38ffdd17fff3af"
-  "windows https://github.com/obsproject/FFmpeg/commit/2927d888cbfda5d19b3147eb5b3a6f423b23cc33.patch?full_index=1 \
-    5d00f30410a3ceb8c47bcd14935151ead13ed834d87e570771836b1e3e7b768a"
 )
 
 ## Build Steps
