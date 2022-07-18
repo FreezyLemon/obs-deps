@@ -10,10 +10,34 @@ local -a patches=(
     97ac6385c2b7a682360c0cfb3e311ef4f3a48041d3f097d6b64f8c13653b6450"
   "* ${0:a:h}/patches/FFmpeg/0002-FFmpeg-4.4.1-OBS.patch \
     710fb5a381f7b68c95dcdf865af4f3c63a9405c305abef55d24c7ab54e90b182"
-  "* ${0:a:h}/patches/FFmpeg/0003-FFmpeg-4.4.1-libaomenc.patch \
-    993f429b3c3f4acac4929bfb9b51d074381f4937f2e86068a6039998cebc0aca"
   "* ${0:a:h}/patches/FFmpeg/0004-FFmpeg-4.4.1-librist.patch \
     96345ca97b9a923a07c4dd38c20cb435241463eda2d69e13daa97faa758ed8cc"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/04b89e8ae3.patch \
+    c785bdbbcab80b2fac97762848358d09bcf154c6e76d17cb029c1c9cc7ac8775"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/64e2fb3f9d.patch  \
+  936f5bd49b8708ba03817eceef9ded1256a3f5ff0ccfc4cf93c76d02acd77a42"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/0463f5d6d5.patch \
+    48ee092a647fe8a29c5df928ef12d2bc8de0ba4f4875dda717b5142285905040"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/c5f3143090.patch \
+    0763e9457120f18feb47ed8992757ee77d445aa54569b38df12f936924fb8071"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/c33b404885.patch \
+    9e57fb8b6407c76fd5085053549151438185590cc9892d19b4632c57fcff9035"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/1dddb930aa.patch \
+    6e8ddca62fd9348332829fe4b413d7abd074d03e8d994c7e185a405d662f3763"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/50bc872635.patch \
+    0a35c2be3e0266eb27e7ee633bf75af16a3e00d5fc123555f7d5226f5738fb9d"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/51c0b9e829.patch \
+    43d979a2d04e67b41daba22505cf51074a8ba22f898c2e09bacd2346152cdb58"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/e3c4442b24.patch \
+    9618e5fda200475614404517ebf631f96c9ec6619bfc2180279daae103a97420"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/ded0334d21.patch \
+    419e6ec15d5ede3742b918ea03123d17955bd60a036849ee27baa41de46cc4e2"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/70887d44ff.patch \
+    290fded8d6381b49590401482d046e719ffb798ccd75c6e676c1758becdc7b22"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/fe100bc556.patch \
+    c277ab561930a7ef56eb2f29c1d845b2a2fb9acf3c717407550811b711970355"
+  "* https://gitlab.com/1480c1/FFmpeg/-/commit/6fd1533057.patch \
+    584fa2eecda95a3b70a691492acc47f2d33d55ff886561e9b487001fb6997761"
   "windows https://github.com/obsproject/FFmpeg/commit/9ee65983b32b3aa637a839f5171aa16d7bc3650d.patch?full_index=1 \
     a7b0850f6ab1e688a02ba98f05b2a60d6fc1cb306ca825a3bd4e7eacb2fc0a75"
   "windows https://github.com/obsproject/FFmpeg/commit/3558b7c140f86551cd65e7e7aa9815cc2db6e16b.patch?full_index=1 \
